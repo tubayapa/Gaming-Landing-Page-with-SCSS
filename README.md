@@ -2,6 +2,7 @@
 
 Welcome to GameLix, a modern gaming website styled using SCSS. This project incorporates a sleek and responsive design, offering an immersive gaming experience for users.
 
+![ezgif com-optimize](https://github.com/tubayapa/Gaming-Landing-Page-with-SCSS/assets/147662888/091fc7fa-ae5f-45e5-8fb6-61ab7e8ce353)
 
 Features
 Responsive Design: 
